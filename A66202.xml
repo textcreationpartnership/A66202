@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation whereas it hath been represented unto His Majesty that divers frauds and abuses have been and are committed by collectors and others concerned in assessing, collecting, and paying of the duties granted unto His Majesty ...</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66202</idno>
+            <idno type="STC">Wing W2453</idno>
+            <idno type="STC">ESTC R37222</idno>
+            <idno type="EEBO-CITATION">16272104</idno>
+            <idno type="OCLC">ocm 16272104</idno>
+            <idno type="VID">105218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105218)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1602:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation whereas it hath been represented unto His Majesty that divers frauds and abuses have been and are committed by collectors and others concerned in assessing, collecting, and paying of the duties granted unto His Majesty ...</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill and the executrix of Thomas Newcomb, deceas'd ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at Kensington, the fifth day of December, 1700, in the twelfth year of our reign."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div rend="blackletterType" type="Royal_proclamation">
+            <pb facs="tcp:105218:1"/>
+            <head rend="roman">By the King, A PROCLAMATION.</head>
+            <opener rend="roman">
+               <signed>WILLIAM R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>hereas it hath been repreſented unto His Majeſty, That divers Frauds and Abuſes have been and are Committed by Collectors and others concerned in Aſſeſſing, Collecting and Paying of the Duties Granted unto His Majeſty, by an Act of Parliament made in the Sixth and Seventh Years of His Reign, Intituled, <hi rend="roman">AN Act for Granting to His Majeſty certain Rates and Duties upon Marriages, Births and Burials, and upon Batchelors and Widowers, for the term ot Five Years, for Carrying on the War againſt <hi rend="italic">France</hi> with Vigour</hi>; Which ſaid Duties were, by another Act made in the Eighth Year of His Majeſties Reign, Intituled, <hi rend="roman">An Act for Making good the Deficiencies of ſeveral Funds therein mentioned, and for Enlarging the Capital Stock of the Bank of England, and for Raiſing the Publick Credit,</hi> continued payable to His Majeſty until the Firſt Day of <hi rend="roman">Auguſt,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſeven hundred and ſix: And whereas by means of the ſaid Frauds and Abuſes, the Sums of Money intended to be Raiſed by the ſaid Acts, for and toward Satisfaction of the Principal and Intereſt Monies charged thereupon, falls greatly ſhort: Aad whereas by an Act of Parliament made in the Ninth and Tenth Years of His Majeſties Reign, Intituled, <hi rend="roman">An Act for Preventing Frauds and Abuſes, in the Charging, Collecting and Paying the Duties upon Marriages, Births, Burials, Batchelors and Widowers,</hi> It is amongſt other things Enacted, That the Commiſſioners appointed thereby for Raiſing and Levying the ſaid Duties, ſhould on or before the Firſt Day of <hi rend="roman">Auguſt,</hi> One thouſand ſix hundred ninety and eight, and ſo from time to time once or oftner in every Three Months, Meet together at ſome convenient Place or Places within their reſpective Limits or Diviſions for the Execution of the ſaid Acts, who are thereby Impowred to Warn, not only the reſpective Aſſeſſors and Collectors, but alſo the Surveyors, Inſpectors and Receivers General, and (if need be) any Parſons, Vicars, Curates, Pariſh-Clerks, and others concerned, in relation to the ſaid Duties, or any of them, to Appear before them, and other the Commiſſioners, at every ſuch Meeting, and Requiring them, or ſuch of them, to whom it appertains reſpectivly, to bring in their Aſſeſſments, Preſentments and Accounts for or concerning the ſaid Duties, and alſo the Regiſters of Marriages, Births and Burials, or Copies thereof, as ſhall be directed; and if Default be made therein contrary to ſuch Warning given, then the ſaid Commiſſioners, or the major part of them pre<g ref="char:EOLhyphen"/>ſent at ſuch Meeting, ſhall and may Fine the Offenders for every ſuch Default, not exceeding Five Pounds; And the ſaid Commiſſioners, or any Two or more of them, ſhall and may proceed to Examine the ſaid Aſſeſſments, Preſentments and Accounts, and alſo the ſaid Regiſters, or the Copies thereof; And if they, or any Two or more of them, do find that any Perſon or Perſons are Omitted, or not fully Charged, ſhall and may cauſe ſuch Perſon or Perſons to be Taxed and Charged according to the true meaning of the ſaid Acts, and thereupon to Allow and Sign the Aſſeſſments or Preſentments, and to cauſe Ab<g ref="char:EOLhyphen"/>ſtracts or Duplicates of the groſs Sum or Sums, which from time to time ſhall appear to them to have accrued, or which ought to have accrued to His Ma<g ref="char:EOLhyphen"/>jeſty in every Pariſh or Place, for the ſaid reſpective Duties upon Marriages, Births, Burials, Batchelors and Widowers, to be made up and Signed by them, or any Two or more of them, and to be forthwith tranſmitted into the Exchequer, to wit, into the Office of the Kings Remembrancer there; And that the reſpective Collectors of the ſaid Duties, ſhall render their Accounts, upon Oath to the beſt of their Knowledge, which Oaths ſhall and may be Adminiſtred by the ſaid Commiſſioners, or any Two or more of them; And in default of rendring ſuch Account, when thereunto required by the ſaid Commiſſioners, or any Two or more of them, every Collector making ſuch Default ſhall and may be Fined by the ſaid Commiſſioners, or any Two or more of them, not exceeding Twenty Pounds: And whereas by an Act made in the Eleventh and Twelfth Years of His Majeſties Reign, Intituled, <hi rend="roman">An Act for Granting an Aid to His Majeſty, by Sale of the Forfeited and other Eſtates and Intereſts in <hi rend="italic">Ireland,</hi> and by a Land Tax in <hi rend="italic">England,</hi> for the ſeveral Purpoſes therein mentioned,</hi> It is amongſt other things En<g ref="char:EOLhyphen"/>acted, That all and every the Perſons Appointed to be Commiſſioners for putting that Act in Execution for the ſaid Tax or Aſſeſſments, within the King<g ref="char:EOLhyphen"/>dom of <hi rend="roman">England,</hi> Dominion of <hi rend="roman">Wales,</hi> and Town of <hi rend="roman">Berwick</hi> upon <hi rend="roman">Tweed,</hi> be alſo Commiſſioners for putting in Execution the ſeveral Acts for the Duties upon Marriages, Births and Burials, Batchelors and Widowers, and all the Powers in the ſaid ſeveral Acts contained, within all and every the ſeve<g ref="char:EOLhyphen"/>ral and reſpective Countries, Ridings, Cities, Boroughs, Cinque-Ports, Towns and Places for which they are Commiſſioners by the ſaid Act, during the continuance of the ſeveral Acts for the ſaid Duties respectively; And that the ſaid Commiſſioners, or any Three or more of them, ſhould have full Power and Authority, and they and every of them are thereby Required and Impowred to Act, Do, Proceed and Finiſh in all Matters and Things re<g ref="char:EOLhyphen"/>lating to the ſaid Duties upon Marriages, Births, Burials, Batchelors and Widowers, and the Arrears thereof, as fully and effectually as if the ſaid Commiſſioners were particularly Named and Appointed in the ſaid Acts for the aforeſaid Duties of Marriages, Births, Burials, Batchelors and Wi<g ref="char:EOLhyphen"/>dowers, during the time aforeſaid: And whereas the ſaid Frauds and Abuſes have been in a great meaſure occaſioned by the not meeting of the ſaid Commiſſioners, and calling to Account the ſaid Collectors, and other Perſons concerned in the ſaid Duties, purſuant to the Directions of the ſaid Act; His Majeſty therefore (with the Advice of His Privy Council) hath thought fit to Iſſue this His Royal Proclamation, hereby Commanding and Re<g ref="char:EOLhyphen"/>quiring all Perſons whatſoever, any ways concerned in the Aſſeſſing, Levying and Paying any of the Duties Granted by the aforeſaid Acts of Parlia<g ref="char:EOLhyphen"/>ment, to be Careful and Diligent in Performing their ſeveral Duties by the ſaid Acts Required, and His Majeſty doth hereby ſtrictly Charge and Command, all and every the Commiſſioners Appointed by the ſaid Acts for managing the ſaid Duties, That they do, purſuant to the ſaid Acts, meet at their uſual Places of Meeting in their reſpective Limits or Diviſions, once in every Three Months, or oftner, if need require, and to Summon before them not only the Aſſeſſors and Collectors of the ſaid Duties, but alſo the Surveyors and Receivers General, and (if need be) any Parſons, Vicars, Curates, Pariſh-Clerks, and others concerned in relation to the ſaid Duties, to bring in their Aſſeſſments and Accounts, and Regiſters, or Copies thereof, to the end the ſaid Commiſſioners may inform themſelves whether the ſaid Aſſeſſments are made, Accounts taken, Regiſters kept, and the Duties Anſwered, purſuant to the Directions of the ſaid Acts, and Puniſh them that ſhall be Negligent in their Duty, or Act any thing contrary to the Directions of the ſaid Acts. And His Majeſty doth hereby likewiſe ſtrictly Charge and Command every Eccleſiaſtical, or other Perſon Required by the ſaid Acts, or any of them, to keep a Regiſter of Perſons Buried, Chriſtned, Born or Married; That they do in the ſame Regiſters reſpectively, according to the beſt of their Know<g ref="char:EOLhyphen"/>ledge and Information, together with the Name of every Perſon ſo Married, Buried, Chriſtned or Born, Set down and Expreſs, or cauſe to be Set down and Expreſſed in Writing, the reſpective Degree, Condition or Quality, according to which His Majeſties Duty ought to be Paid for every ſuch Burial, Birth or Marriage reſpectively; And in the caſe of Burials, the Names of the Heirs, Executors, Adminiſtrators, Fathers, Mothers, Guardians, Church-wardens, Overſeers or others, who by the ſaid Acts ought to Pay for the ſame, and where they dwell reſpectively; And in caſe of Births, the Names of the Fathers, Mothers, or thoſe that take on them the Guardianſhip or Care of ſuch Children ſo Born, and where they Live reſpectively; And in caſe of Marriages, the Places of Abode of the ſeveral Husbands, on Pain of being Proſecuted for the Penalty of Twenty Pounds Impoſed by the ſaid Act on thoſe who ſhall refuſe ſo to do, with Intent to Defraud His Majeſty of any Part of the ſaid Duties.</p>
+            <closer rend="roman">
+               <dateline>Given at Our Court at <hi rend="italic">Kenſington,</hi> 
+                  <date>the Fifth Day of <hi rend="italic">December,</hi> 1700. In the Twelfth Year of Our Reign.</date>
+               </dateline>
+            </closer>
+            <closer rend="roman">God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div rend="roman" type="colophon">
+            <p>
+               <hi rend="italic">LONDON,</hi> Printed by <hi rend="italic">Charles Bill,</hi> and the Executrix of <hi rend="italic">Thomas Newcomb,</hi> deceas'd, Printers to the Kings moſt Excellent Majeſty 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
